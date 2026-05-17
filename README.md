@@ -93,11 +93,16 @@ B.S.S Chandipur Saur, Nawada
 - **Rookie of the Quarter (2024)** — Awarded for exceptional performance in backend development at Infosys
 
 ---
-
+## 🚀 Live Projects
+- **[DSA-Problme tracker live](https://bhardwaj2000.github.io/dsa-problem-tracker)** — To track your DSA + Interview progress
+- **[URL-Shortner live](https://url-shortner-backend-v5oa.onrender.com/)** — To short your long url for sharing
+---
 ## 📈 Key Projects
 
+- **[DSA-Problme tracker](https://github.com/bhardwaj2000/dsa-problem-tracker)** — React.Js application
 - **[Food Route](https://github.com/bhardwaj2000/FoodRoute)** — Full stack application
 - **[CredMarg Application](https://github.com/bhardwaj2000/credmarg-application)** — Enterprise solution
+- **[Url-Shortner Application](https://github.com/bhardwaj2000/url-shortner-backend)** — Concurrent Fullstack Application
 - **[Microservices](https://github.com/bhardwaj2000/mks_microService)** — Advanced microservices architecture
 
 For more projects and contributions, visit my [GitHub profile](https://github.com/bhardwaj2000).
